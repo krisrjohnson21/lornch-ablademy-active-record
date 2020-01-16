@@ -11,8 +11,8 @@
 # 9 hannah = Student.create(name: "Hannah Horobin")
 # 10 vinh = Student.create(name: "Vinh Doan")
 # 11 braden = Student.create(name: "Braden Lawrence")
-12 max = Student.create(name: "Max Lee")
-13 everett = Student.create(name: "Everett Yeaw")
+# 12 max = Student.create(name: "Max Lee")
+# 13 everett = Student.create(name: "Everett Yeaw")
 
 # 3 coping = Clinic.create(title: "Coping With Failure", speaker: "Fang", description: "Be positive and get through it")
 # 4 bridges = Clinic.create(title: "Building Bridges", speaker: "Gabe Encarnacion", description: "Connections are important")
