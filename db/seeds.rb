@@ -3,7 +3,6 @@
 #
 # Example:
 #
-#   Person.create(first_name: 'Eric', last_name: 'Kelly')
 # evan = Student.create(name: "Evan Fernberg")
 # ben = Student.create(name: "Ben Hatfield")
 # ned = Student.create(name: "Ned Lehman")
